@@ -7,7 +7,7 @@ const oswald = Oswald({ subsets: ["latin"] });
 export default function Butts() {
   return (
     <div className={oswald.className}>
-      <div className="flex flex-col items-center gap-4 p-8 ">
+      <div className="flex flex-grow-0 flex-col items-center gap-4 p-8 ">
         <Link href="/Bage1">
           <button className="rounded-full bg-blue-500 p-4 hover:bg-black hover:border-2 hover:border-blue-500 hover:font-bold hover:text-blue-300 hover:cursor-help">
             Save Changes
