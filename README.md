@@ -11,6 +11,7 @@
 2. [Coms](#coms)
    1. [NextJS 13 \&\& Tailwind CSS Pretty](#nextjs-13--tailwind-css-pretty)
 3. [Dira](#dira)
+4. [Ref](#ref)
 
 ---
 
@@ -26,9 +27,16 @@
 pnpm dlx create-next-app@latest
 pnpm i -D prettier prettier-plugin-tailwindcss
 ```
-# Dira 
 
-N | ? 
-|:--:|:--:|
-[`tc28`](./tc28/) | $workis \ actualis $
-[`twcp`](./twcp/) | Referential stinky mistress
+# Dira
+
+|         N         |              ?              |
+| :---------------: | :-------------------------: |
+| [`tc28`](./tc28/) |    $workis \ actualis $     |
+| [`twcp`](./twcp/) | Referential stinky mistress |
+
+# Ref
+
+[`https://github.com/bradtraversy/tailwind-course-projects`](https://github.com/bradtraversy/tailwind-course-projects)
+
+- Tuta files for referencington
