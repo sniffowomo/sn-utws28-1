@@ -11,7 +11,7 @@ export default function BageLayout({
 }) {
   return (
     <section
-      className={`${dansing.className} mx-auto min-h-screen bg-[url("/1.jpg")] bg-no-repeat bg-cover bg-blend-overlay bg-fixed`}>
+      className={`${dansing.className} mx-auto min-h-screen bg-[url("/1.jpg")] bg-no-repeat bg-cover bg-fixed`}>
       {/* Include shared UI here e.g. a header or sidebar */}
       {children}
     </section>
