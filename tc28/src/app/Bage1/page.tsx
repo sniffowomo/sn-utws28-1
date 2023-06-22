@@ -7,7 +7,9 @@ export default function page() {
   return (
     <div>
       <div>
-        <div className="text-9xl p-48 animate-bounce  text-center">page</div>
+        <div className="text-9xl pt-20 pb-20 animate-bounce text-center">
+          page
+        </div>
       </div>
       <div className="flex justify-center">
         <Link href="/">

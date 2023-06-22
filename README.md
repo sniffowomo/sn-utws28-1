@@ -12,6 +12,8 @@
    1. [NextJS 13 \&\& Tailwind CSS Pretty](#nextjs-13--tailwind-css-pretty)
 3. [Dira](#dira)
 4. [Ref](#ref)
+5. [Animations](#animations)
+6. [Buttons](#buttons)
 
 ---
 
@@ -40,3 +42,12 @@ pnpm i -D prettier prettier-plugin-tailwindcss
 [`https://github.com/bradtraversy/tailwind-course-projects`](https://github.com/bradtraversy/tailwind-course-projects)
 
 - Tuta files for referencington
+
+# Animations
+
+> This page has sexy animation, from [`https://react-awesome-reveal.morello.dev/docs/getting-started`](https://react-awesome-reveal.morello.dev/docs/getting-started)- Very easy to use and no overhead
+> Smooth and sexay
+
+# Buttons 
+
+> Sexy buttons are taken from [`https://flowbite.com/docs/components/buttons/`](https://flowbite.com/docs/components/buttons/) - Straight forward TW , nothing additional to import
