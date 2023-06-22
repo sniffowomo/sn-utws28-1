@@ -14,12 +14,12 @@ export default function Butts() {
           <Zoom cascade damping={0.2} delay={100}>
             <Link href="/Bage1">
               <button className="rounded-full bg-blue-500 p-4 hover:bg-black hover:border-2 hover:border-blue-500 hover:font-bold hover:text-blue-300 hover:cursor-help">
-                Save Changes
+                Bage1 - BG Testing
               </button>
             </Link>
-            <Link href="/">
+            <Link href="/Bage2">
               <button className="rounded-full bg-green-500 p-4 hover:bg-black hover:border-2 hover:border-green-500 hover:font-bold hover:text-green-300 hover:cursor-help">
-                Save Changes
+                Bage2 - BG Testing
               </button>
             </Link>
             <Link href="/">
