@@ -9,7 +9,8 @@ export default function BageLayout({
   children: React.ReactNode;
 }) {
   return (
-    <section className={`${dansing.className} mx-auto min-h-screen bg-[url("https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif")]`}>
+    <section
+      className={`${dansing.className} mx-auto min-h-screen bg-[url("https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif")] bg-no-repeat bg-cover`}>
       {/* Include shared UI here e.g. a header or sidebar */}
       {children}
     </section>

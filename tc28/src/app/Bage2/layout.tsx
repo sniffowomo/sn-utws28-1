@@ -10,7 +10,7 @@ export default function BageLayout({
 }) {
   return (
     <section
-      className={`${dansing.className} mx-auto min-h-screen bg-[url("https://mcdn.wallpapersafari.com/medium/65/37/XYWklZ.jpg")]`}>
+      className={`${dansing.className} mx-auto min-h-screen bg-[url("https://mcdn.wallpapersafari.com/medium/65/37/XYWklZ.jpg")] bg-no-repeat bg-cover`}>
       {/* Include shared UI here e.g. a header or sidebar */}
       {children}
     </section>
