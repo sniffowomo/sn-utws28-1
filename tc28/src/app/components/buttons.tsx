@@ -9,9 +9,9 @@ const oswald = Oswald({ subsets: ["latin"] });
 export default function Butts() {
   return (
     <>
-      <Zoom cascade={true} damping={0.1} delay={100}>
-        <div className={oswald.className}>
-          <div className="flex flex-grow-0 flex-col items-center gap-4 p-8 ">
+      <div className={oswald.className}>
+        <div className="flex flex-grow-0 flex-col items-center gap-4 p-8 ">
+          <Zoom cascade damping={0.2} delay={100}>
             <Link href="/Bage1">
               <button className="rounded-full bg-blue-500 p-4 hover:bg-black hover:border-2 hover:border-blue-500 hover:font-bold hover:text-blue-300 hover:cursor-help">
                 Save Changes
@@ -32,9 +32,9 @@ export default function Butts() {
                 Save Changes
               </button>
             </Link>
-          </div>
+          </Zoom>
         </div>
-      </Zoom>
+      </div>
     </>
   );
 }
