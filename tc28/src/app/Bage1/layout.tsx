@@ -1,5 +1,6 @@
 import { Dancing_Script } from "next/font/google";
 import "./bage.css";
+import Image from "next/image";
 
 const dansing = Dancing_Script({ subsets: ["latin"] });
 
@@ -10,7 +11,7 @@ export default function BageLayout({
 }) {
   return (
     <section
-      className={`${dansing.className} mx-auto min-h-screen bg-[url("https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif")] bg-no-repeat bg-cover`}>
+      className={`${dansing.className} mx-auto min-h-screen bg-[url("/1.jpg")] bg-no-repeat bg-cover bg-blend-overlay bg-fixed`}>
       {/* Include shared UI here e.g. a header or sidebar */}
       {children}
     </section>
