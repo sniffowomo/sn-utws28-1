@@ -32,10 +32,10 @@ pnpm i -D prettier prettier-plugin-tailwindcss
 
 # Dira
 
-|         N         |              ?              |
-| :---------------: | :-------------------------: |
-| [`tc28`](./tc28/) |    $workis \ actualis $     |
-| [`twcp`](./twcp/) | Referential stinky mistress |
+|         N         |                                                                                ?                                                                                 |
+| :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [`tc28`](./tc28/) | This was meant to be for the tut, but now it is your graphical testing, whichis also deploye d to e vercelsuckladybum , so will make a secondary one for the tut |
+| [`twcp`](./twcp/) |                                                                   Referential stinky mistress                                                                    |
 
 # Ref
 
@@ -48,6 +48,6 @@ pnpm i -D prettier prettier-plugin-tailwindcss
 > This page has sexy animation, from [`https://react-awesome-reveal.morello.dev/docs/getting-started`](https://react-awesome-reveal.morello.dev/docs/getting-started)- Very easy to use and no overhead
 > Smooth and sexay
 
-# Buttons 
+# Buttons
 
 > Sexy buttons are taken from [`https://flowbite.com/docs/components/buttons/`](https://flowbite.com/docs/components/buttons/) - Straight forward TW , nothing additional to import
