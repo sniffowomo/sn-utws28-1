@@ -4,7 +4,7 @@ import { Pathway_Extreme } from "next/font/google";
 const paway = Pathway_Extreme({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "TWC28v1",
+  title: "🍑GFXTesting",
   description: "UTWC28",
 };
 
