@@ -1,4 +1,6 @@
 import Image from "next/image";
+import Buts from "./components/buts";
+
 
 export default function Home() {
   return (
@@ -8,6 +10,9 @@ export default function Home() {
       </h1>
       <div className="border-y-2 border-red-500 py-5">
         <p className="mt-3">Tailwind mini projects click button below</p>
+      </div>
+      <div>
+        <Buts />
       </div>
     </main>
   );
