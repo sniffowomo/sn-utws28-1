@@ -2,7 +2,7 @@ import React from "react";
 
 export default function page() {
   return (
-    <section className="h-screen flex flex-col items-center justify-center p-2">
+    <section className="h-screen flex flex-col items-center justify-center p-2 bg-[url('https://media2.giphy.com/media/fw8uZriJW4TlhmZnUj/giphy.gif')] bg-fixed bg-cover ">
       <div>
         <h1
           className="text-9xl flex flex-col
