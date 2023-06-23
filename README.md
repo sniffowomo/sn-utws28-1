@@ -14,6 +14,7 @@
 4. [Ref](#ref)
 5. [Animations](#animations)
 6. [Buttons](#buttons)
+7. [Tailwind Animate](#tailwind-animate)
 
 ---
 
@@ -57,3 +58,31 @@ pnpm add react-awesome-reveal @emotion/react
 # Buttons
 
 > Sexy buttons are taken from [`https://flowbite.com/docs/components/buttons/`](https://flowbite.com/docs/components/buttons/) - Straight forward TW , nothing additional to import
+
+# Tailwind Animate 
+
+```sh 
+https://www.tailwindcss-animated.com/configurator.html
+```
+- Configurator for seeing what the animations looke like before implementation 
+
+```sh 
+https://github.com/new-data-services/tailwindcss-animated
+```
+- Official repo, as of current commit , updated 3 days ago 
+- Need to compare this against react-awesome-reveal, see which one is easier 
+  - Explore the cascade efffect 
+
+
+> TailwindCSS plugin for animations
+
+Installation , with PNPM usage, official NPM is 
+
+```sh 
+npm i tailwindcss-animated
+```
+convert this to PNPM 
+
+```sh 
+pnpm i tailwindcss-animated
+```
