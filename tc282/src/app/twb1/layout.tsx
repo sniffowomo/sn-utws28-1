@@ -15,9 +15,5 @@ export default function Twb1Layout({
 }: {
   children: React.ReactNode;
 }) {
-  return (
-    <html lang="en">
-      <body className={orbi.className}>{children}</body>
-    </html>
-  );
+  return <section className={orbi.className}>{children}</section>;
 }
