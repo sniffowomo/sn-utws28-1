@@ -3,7 +3,7 @@ import Buts from "./components/buts";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center text-center bg-[url('https://github.com/sniffowomo/sn-utws28-1/blob/w1/tc282/src/app/components/bd.gif')] bg-fixed bg-center ">
+    <main className="flex min-h-screen flex-col items-center justify-center text-center bg-[url('https://raw.githubusercontent.com/sniffowomo/sn-utws28-1/w1/tc282/src/app/components/bd.gif')] bg-fixed bg-center ">
       <h1 className="text-5xl bg-gradient-to-tr from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-transparent font-extrabold hover:bg-gradient-to-br hover:from-orange-500 hover:via-red-500 hover:to-blue-500 mb-10">
         Ch28: Tailind Mini Projects
       </h1>
