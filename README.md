@@ -1,4 +1,4 @@
-![](sn/2023-06-21_05-56-43.png)
+[![](sn/2023-06-21_05-56-43.png)](https://www.udemy.com/course/tailwind-from-scratch/)
 
 ---
 
