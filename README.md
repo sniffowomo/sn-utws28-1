@@ -48,6 +48,10 @@ pnpm i -D prettier prettier-plugin-tailwindcss
 > This page has sexy animation, from [`https://react-awesome-reveal.morello.dev/docs/getting-started`](https://react-awesome-reveal.morello.dev/docs/getting-started)- Very easy to use and no overhead
 > Smooth and sexay
 
+```sh 
+pnpm add react-awesome-reveal @emotion/react
+```
+
 # Buttons
 
 > Sexy buttons are taken from [`https://flowbite.com/docs/components/buttons/`](https://flowbite.com/docs/components/buttons/) - Straight forward TW , nothing additional to import
