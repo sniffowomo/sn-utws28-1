@@ -37,6 +37,8 @@ pnpm i -D prettier prettier-plugin-tailwindcss
 | [`tc28`](./tc28/) | This was meant to be for the tut, but now it is your graphical testing, whichis also deploye d to e vercelsuckladybum , so will make a secondary one for the tut |
 | [`twcp`](./twcp/) |                                                                   Referential stinky mistress                                                                    |
 
+- When you first opened this repo , you wanted to do some actualy work with tut, but got carried away with the gfx, so even though these are called "tcxxx", they are still all of yoru gfx testing.
+
 # Ref
 
 [`https://github.com/bradtraversy/tailwind-course-projects`](https://github.com/bradtraversy/tailwind-course-projects)
