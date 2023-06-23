@@ -20,10 +20,10 @@ module.exports = {
         },
       },
       backgroundSize: {
-        "400%": "400%",
+        "300%": "300%",
       },
       animation: {
-        gradient: "animatedgradient 2s ease infinite alternate",
+        gradient: "animatedgradient 5s ease infinite alternate",
       },
     },
   },
