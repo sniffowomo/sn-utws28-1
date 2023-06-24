@@ -12,11 +12,13 @@ export default function Home() {
           playsInline
           disablePictureInPicture
           className="absolute h-full w-full object-cover -z-10">
-          <source src="./v.mp4" type="video/mp4" />
+          <source
+            src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.mp4"
+            type="video/mp4"
+          />
         </video>
-
-        <h1 className="text-9xl font-extrabold text-transparent bg-clip-text bg-[url('https://media4.giphy.com/media/l4JyNNqiVzBMbDOVO/giphy.gif')]">
-          V2BG
+        <h1 className="text-6xl font-extrabold text-transparent bg-clip-text bg-[url('https://media4.giphy.com/media/l4JyNNqiVzBMbDOVO/giphy.gif')]">
+          Video BG Test2
         </h1>
         <p className="relative text-center">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore,
