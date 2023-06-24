@@ -1,5 +1,7 @@
 import Bu from '@/components/buttons'
-import Image from 'next/image'
+
+const GIF =
+  'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJ0aHo2NGI5ZXFiOXRicDV0NWR2YzZzZnN6MG13bGZld2JlaWt6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lnfzT3k8g7wpG/giphy.mp4'
 
 export default function Home() {
   return (
@@ -12,10 +14,7 @@ export default function Home() {
           playsInline
           disablePictureInPicture
           className="absolute h-full w-full object-cover -z-10">
-          <source
-            src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.mp4"
-            type="video/mp4"
-          />
+          <source src={GIF} type="video/mp4" />
         </video>
         <h1 className="text-6xl font-extrabold text-transparent bg-clip-text bg-[url('https://media4.giphy.com/media/l4JyNNqiVzBMbDOVO/giphy.gif')]">
           Video BG Test2
