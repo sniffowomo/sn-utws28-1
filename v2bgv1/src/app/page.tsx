@@ -3,6 +3,8 @@ import Bu from '@/components/buttons'
 const GIF =
   'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJ0aHo2NGI5ZXFiOXRicDV0NWR2YzZzZnN6MG13bGZld2JlaWt6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lnfzT3k8g7wpG/giphy.mp4'
 
+const url2 = 'https://media0.giphy.com/media/gfIiwaMIB5tAeeRnNU/giphy.gif'
+
 export default function Home() {
   return (
     <main>
@@ -13,10 +15,10 @@ export default function Home() {
           loop
           playsInline
           disablePictureInPicture
-          className="absolute h-full w-full object-cover -z-10">
+          className="absolute h-full w-full object-cover -z-10 ">
           <source src={GIF} type="video/mp4" />
         </video>
-        <h1 className="text-6xl font-extrabold text-transparent bg-clip-text bg-[url('https://media4.giphy.com/media/l4JyNNqiVzBMbDOVO/giphy.gif')]">
+        <h1 className="text-9xl text-center font-extrabold text-transparent bg-clip-text bg-[url('https://media0.giphy.com/media/gfIiwaMIB5tAeeRnNU/giphy.gif')]">
           Video BG Test2
         </h1>
         <p className="relative text-center">
