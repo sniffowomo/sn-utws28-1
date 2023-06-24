@@ -4,10 +4,14 @@ import Vid from './components/vid'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1 className="text-6xl text-center font-extrabold bg-gradient-to-bl from-rose-600 via-yellow-300 to-teal-500 bg-clip-text text-transparent animate-gradient bg-300%">
-        Video BG Test
-      </h1>
+    <main>
+      <div className="sticky flex flex-col h-screen items-center justify-center text-center z-50 ">
+        <h1 className="text-9xl">Hey</h1>
+        <p className=" text-2xl">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
+          dolorum?
+        </p>
+      </div>
       <Vid />
     </main>
   )
